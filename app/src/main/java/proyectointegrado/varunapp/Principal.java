@@ -28,6 +28,7 @@ public class Principal extends AppCompatActivity
 
 
         // Write a message to the database
+        //Prueba
         FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference myRef = database.getReference("message");
 
