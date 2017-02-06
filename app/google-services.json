@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304689416446",
+    "firebase_url": "https://varunapp-b42dc.firebaseio.com",
+    "project_id": "varunapp-b42dc",
+    "storage_bucket": "varunapp-b42dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304689416446:android:6fdebe37475f3b39",
+        "android_client_info": {
+          "package_name": "proyectointegrado.varunapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304689416446-7hjtnh5msao50rpmg5a1bui01dfauo98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALbD88rSd0Wb9OfdM4R4UEVeq5g5CXPRM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304689416446-7hjtnh5msao50rpmg5a1bui01dfauo98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
